@@ -1,1 +1,10 @@
-{}
+{
+  "description": "Provides expert legal services and case management for Indian Armed Forces, CAPF, and government personnel with secure client and admin portals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
